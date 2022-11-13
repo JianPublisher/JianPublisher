@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justin Cheng
-- 👀 I’m interested in creating programs! Tho Im exploring a new field, which is cybersecurity!
-- 🌱 I’m currently learning ethical hacking~
-- 💞️ I’m looking to collaborate on....hacking programs?
+- 👀 I’m interested Web-Devlopment!
+- 🌱 I’m currently learning to implement JavaScript UI Frameworks like React!~
+- 💞️ I’m looking to collaborate on....Web Application programs?
 - 📫 How to reach me : Jianpublisher@gmail.com
 
 <!---
